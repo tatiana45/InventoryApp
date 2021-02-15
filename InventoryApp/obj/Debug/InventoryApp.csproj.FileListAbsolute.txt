@@ -1,0 +1,12 @@
+C:\Users\tatia\source\repos\InventoryApp\InventoryApp\bin\Debug\InventoryApp.exe.config
+C:\Users\tatia\source\repos\InventoryApp\InventoryApp\bin\Debug\InventoryApp.exe
+C:\Users\tatia\source\repos\InventoryApp\InventoryApp\bin\Debug\InventoryApp.pdb
+C:\Users\tatia\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csprojAssemblyReference.cache
+C:\Users\tatia\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Main.resources
+C:\Users\tatia\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Properties.Resources.resources
+C:\Users\tatia\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csproj.GenerateResource.cache
+C:\Users\tatia\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csproj.CoreCompileInputs.cache
+C:\Users\tatia\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.exe
+C:\Users\tatia\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.pdb
+C:\Users\tatia\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.PartsView.resources
+C:\Users\tatia\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.ProductsView.resources
